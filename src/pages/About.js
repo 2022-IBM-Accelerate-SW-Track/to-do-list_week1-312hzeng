@@ -19,7 +19,7 @@ export default class About extends Component {
     </div>
     <div className="split right">
       <div className="centered">
-        <div className="name_title">Hongkun</div>
+        <div className="name_title">Hongkun Zeng</div>
         <div className="brief_description">
           <p>My name is Hongkun and I am a rising junior at UIUC. I majored in Computer Engineering, which involves with both hardware and software learning.</p>
           <p>I love software engineering because it makes people's life so much more easier! I hope one day I could be a software engineer and help people solve some problems that would be
